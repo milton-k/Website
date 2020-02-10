@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<title>W3.CSS</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    
+<style>
+body {
+font-family: Arial;
+}
+</style>
+<body>
+    <!-- content goes in here -->
+   
+<nav class="w3-bar w3-blue">
+     <a href="#home" class="w3-button w3-bar-item">Home</a>
+    <a href="#reviews" class="w3-button w3-bar-item">reviews</a>
+    
+</nav>
+
+</body>
+</html>
